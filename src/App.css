@@ -4,6 +4,12 @@
     padding-top: 100px;
 }
 
-.overflow-scroll{
-    overflow-x: scroll;
+
+
+ /*добавить медия на максвидз 540 скролл*/
+
+@media (max-width: 560px) {
+    .overflow-scroll{
+        overflow-x: scroll;
+    }
 }

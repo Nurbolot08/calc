@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="21795dec-53f6-47f1-bcf6-fae674ba7220" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/colorias.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/colorias.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../REPOSITORY/project-maket-itcompany" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -63,7 +64,7 @@
       <updated>1606817406627</updated>
       <workItem from="1606817436951" duration="6170000" />
       <workItem from="1606824116588" duration="22172000" />
-      <workItem from="1606910207807" duration="2286000" />
+      <workItem from="1606910207807" duration="3416000" />
     </task>
     <servers />
   </component>

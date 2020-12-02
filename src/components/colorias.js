@@ -9,7 +9,7 @@ const Colorias = ({nutrition}) => {
             {nutrition.items && (
                 <div className="row">
                     <div className="col-md-8 offset-md-2 overflow-scroll">
-                        <table className="table bg-light mt-5 table-bordered">
+                        <table className="table bg-light mt-5">
                             <thead className="thead-dark">
                             <tr>
                                 <th scope="col">Name</th>
